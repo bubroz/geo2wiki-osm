@@ -1,0 +1,4 @@
+requests==2.26.0
+haversine==2.5.1
+shapely==1.8.0
+mwclient==0.10.1
