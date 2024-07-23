@@ -84,7 +84,7 @@ def calculate_centroid(geometry):
     return centroid.y, centroid.x
 
 # Define the endpoint and initial parameters
-center_lat, center_lon = (25.99741170719239, -97.15617622862416)  # SpaceX Starbase
+center_lat, center_lon = (38.897685330838804, -77.03653317988284)  # The White House
 initial_radius = 500
 max_radius = 10000
 radius_increment = 500
